@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 738px;
+    width: auto;
+    background-color: black;
+}
+
+.box1 {
+    height: 100px;
+    width: 550px;
+    background-color: orange;
+}
+
+.box2 {
+    height: 100px;
+    width: 550px;
+    background-color: #fff;
+}
+
+.box2 img {
+    padding-left: 40%;
+}
+
+.box3 {
+    height: 100px;
+    width: 550px;
+    background-color: green;
+}
